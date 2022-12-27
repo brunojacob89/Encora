@@ -15,7 +15,7 @@ public class Coins {
 
 
         public static void main(String[] args) {
-            int n = 32;
+            int n = 12;
             makeChange(n).forEach(s -> System.out.println(s));
 
         }
